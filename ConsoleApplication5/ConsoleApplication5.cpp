@@ -39,3 +39,4 @@ int main()
         cout << "Result =" << c << endl;
     }
 }
+Кажется он не работает 
