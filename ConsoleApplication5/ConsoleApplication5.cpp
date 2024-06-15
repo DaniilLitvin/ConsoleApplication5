@@ -6,10 +6,8 @@ float a, b, c;
 char d;
 int p;
 int main()
-setlocale(LC_ALL, "Russian")
-
 {
-
+    setlocale(LC_ALL, "Russian");
     while (p != 2)
     {
         cout << "1 = calculator \n 2 - exit \n";
@@ -43,3 +41,4 @@ setlocale(LC_ALL, "Russian")
 }
 Кажется он не работает 
 Оно работает, но не хочет говорить со мной по-русски, кажется эта штука не патриот.Придеться перейти к крайнем мерам включаю Шамана 
+Я в тупике Шаман не помог в чем же дело, ХММ 
